@@ -1,3 +1,5 @@
+The Windows defender swears that it is a virus. But this is just packed python code.
+
 Save editor for Phasmophobia game.
 1. Download file.
 2. Run file.
