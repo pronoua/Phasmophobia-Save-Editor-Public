@@ -4,12 +4,11 @@ Save editor for Phasmophobia game.
 ------------------------------------------------------------------------------------------------
 1. Download files **saveData.txt** and **Phasmophobia-crack.exe**
 2. Copy **saveData.txt** with replace to **"%USERPROFILE%\AppData\LocalLow\Kinetic Games\Phasmophobia\"**
-3. Delete files **SaveData.es3** and **SaveData.es3.bkp** if exist.
-4. Turn **off Steam Cloud sync** in the game properties on Steam.
-5. Run **Phasmophobia-crack.exe** and change what you want. (Change value and click "**set**"). After all changes - press **Save Data** and then close the program.
-6. Run the game.
-7. Enjoy!
+3. Turn **off Steam Cloud sync** in the game properties on Steam.
+4. Run **Phasmophobia-crack.exe** and change what you want. (Change value and click "**set**"). After all changes - press **Save Data** and then close the program.
+5. Run the game.
+6. Enjoy!
 ------------------------------------------------------------------------------------------------
 
 P.S.:
-If you want to change something again - you need to repeat steps 1-7!
+If you want to change something again - you need to repeat steps 1-6!
