@@ -10,4 +10,4 @@ Save editor for Phasmophobia game.
 6. Enjoy!
 ------------------------------------------------------------------------------------------------
  
-###### P.S.: If you want to change something again - you need to repeat steps 1-6!
+###### P.S.: If you want to change something again - you need to repeat steps 2-6!
